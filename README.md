@@ -7,9 +7,7 @@
 - 🦥 Procastinating
 - 👩‍💻 Co..coco..coding
 
-📖 I’m currently learning ...
-
-📧 How to reach me ...
+📖 Bachelor of Artificial Intelligence and Machine Learning 
 
 <!---
 riaeshwita/riaeshwita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
