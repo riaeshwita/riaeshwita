@@ -5,6 +5,7 @@
 - 💤 Sleeping
 - 😪 Daydreaming
 - 🦥 Procastinating
+- 💻 Genshin Impact
 - 👩‍💻 Co..coco..coding
 
 📖 Bachelor of Artificial Intelligence and Machine Learning 
