@@ -1,6 +1,5 @@
-<h1 align="center" style="font-size: 24px; font-weight: bold" title="Hello">こんにちは</h1>
+<h1 align="center" style="font-size: 24px; font-weight: bold" title="Hello">Hello! I'm Ria</h1>
 
-<h2 style="font-size: 18px; font-weight: bold" title="Name"> RIA PINTO
 👀 I’m interested in ...
 - 😴 Taking long naps
 - 💤 Sleeping
