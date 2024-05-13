@@ -13,7 +13,7 @@
 - Python 🐍
 
 <h2>🧠 Knowledgeable in</h2>
-Java, C and C++
+Java, Javascript, C and C++
 
 <!---
 riaeshwita/riaeshwita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
