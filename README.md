@@ -10,7 +10,7 @@
 - 👩‍💻 Co..coco..coding <br>
 
 <h2>🚀 Fluent in </h2>
-- Python 🐍
+Python 🐍
 
 <h2>🧠 Knowledgeable in</h2>
 Java, Javascript, C and C++
