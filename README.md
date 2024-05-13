@@ -6,9 +6,13 @@
 - 😪 Daydreaming <br>
 - 🦥 Procastinating <br>
 - 💻 Genshin Impact <br>
+- 🤓 Data science <br>
 - 👩‍💻 Co..coco..coding <br>
 
 <h2> 📖 Bachelor of Artificial Intelligence and Machine Learning </h2>
+
+<h2>🚀 Fluent in </h2>
+- Python
 
 <!---
 riaeshwita/riaeshwita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
