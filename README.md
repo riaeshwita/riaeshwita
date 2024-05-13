@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size: 24px; font-weight: bold" title="Hello">Hello! I'm Ria</h1>
+<h1 align="center" style="font-size: 24px; font-weight: bold" title="Hello">👋 Hello! I'm Ria</h1>
 
-👀 I’m interested in ...
+<h2>👀 I’m interested in ...</h2>
 - 😴 Taking long naps
 - 💤 Sleeping
 - 😪 Daydreaming
