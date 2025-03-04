@@ -5,6 +5,7 @@
 <h2>👀 I’m interested in ...</h2>
 - 🤓 Data science <br>
 - 🤖 Machine Learning <br>
+- 👩🏼‍💻 Web Development <br>
 - 💻 Genshin Impact <br>
 - 😴 Taking long naps <br>
 - 👩‍💻 Co..coco..coding <br>
@@ -13,7 +14,7 @@
 Python🐍 and SQL💻
 
 <h2>🧠 Knowledgeable in</h2>
-Java, Javascript, C and C++
+Python, C, C++, HTML, CSS and JavaScript
 
 <!---
 riaeshwita/riaeshwita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
