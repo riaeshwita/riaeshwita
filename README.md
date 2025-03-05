@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 24px; font-weight: bold" title="Hello">👋 Hello! I'm Ria</h1>
 
-<h2> 📖 Bachelor of Artificial Intelligence and Machine Learning </h2>
+<h2> 📖 Bachelor of Artificial Intelligence and Machine Learning Engineering </h2>
 
 <h2>👀 I’m interested in ...</h2>
 - 🤓 Data science <br>
